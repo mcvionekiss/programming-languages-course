@@ -43,10 +43,8 @@ The program builds a `Picture` — a linked list of various `Shape` objects (`Ci
 
 The program runs on any Java 8 (or newer) environment.
 
-### Compile:
+### Compile & Run:
 ```bash
 javac mainClass.java
-
-### Run:
 java mainClass <x> <y>
-Where <x> and <y> are integer dimensions (e.g., base/height for triangles).
+#Where <x> and <y> are integer dimensions (e.g., base/height for triangles).
