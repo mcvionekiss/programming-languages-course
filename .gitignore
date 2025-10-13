@@ -1,0 +1,14 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# C / C++
+*.o
+*.out
+*.exe
+
+# General build and system files
+.DS_Store
+*.log
